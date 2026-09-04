@@ -20,14 +20,6 @@
     grid-column: 3 / 5;
 }
 
-.background-left {
-    background-color: lightgray;
-    padding: 100px;
-
-    grid-column: 1;
-    grid-row: 2;
-}
-
 .main {
     display: grid;
 
@@ -47,13 +39,6 @@
     padding: 20px;
 }
 
-.background-right {
-    background-color: lightgray;
-    padding: 20px;
-
-    grid-column: 4;
-    grid-row: 2;
-}
 
 .box1 {
     background-color: lightgray;
